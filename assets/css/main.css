@@ -1938,7 +1938,7 @@ section,
   width: 150px;
   height: 150px;
   top: -30px;
-  left: 5%;
+  left: 0%;
   animation-delay: 0s;
 }
 
@@ -1950,7 +1950,7 @@ section,
   width: 120px;
   height: 120px;
   top: 20%;
-  right: 10%;
+  right: 12%;
   animation-delay: -2s;
 }
 
